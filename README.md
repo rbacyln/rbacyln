@@ -1,4 +1,4 @@
-# Hello, I'm Rabia.
+# Hello, I'm Rabia. 👾
 
 I am a senior **Computer Engineering** student based in Istanbul, focusing on the intersection of **Computer Vision** and **Deep Learning**.
 
@@ -6,7 +6,7 @@ I enjoy building systems that can "see" and "understand" real-world data. Curren
 
 ###  Current Focus
 * **The Capstone:** Building a Deep Learning model to detect **poisonous mushrooms** with high accuracy. (Because foraging shouldn't be a gamble!)
-* **Goal:** I aspire to specialize in **Computer Vision** through graduate studies and research, aiming to bridge the gap between theoretical Deep Learning and impactful real-world applications.
+* **Goal:** To pursue a career as an AI Engineer, continuously advancing my skills in generative models and computer vision to contribute to the next generation of intelligent technologies.
 
 ### Toolkit
 `Python` `Java` `PyTorch` `TensorFlow` `OpenCV` `YOLOv8` `Hugging Face` `Streamlit` `Gradio` `Pandas` `Android Dev`
